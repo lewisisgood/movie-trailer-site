@@ -1,4 +1,4 @@
-# ud036_StarterCode
+# My Favorite Movies
 Source code for a Movie Trailer website.
 
 # Instructions:
