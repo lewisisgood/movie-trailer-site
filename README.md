@@ -3,10 +3,10 @@ Source code for a Movie Trailer website.
 
 This project is used to create a website that list my favorite movies along with their posters. When a user clicks on one of the posters, a trailer of the movie from Youtube plays in the same window.
 
-This project is forked from Udacity's ud036_StarterCode. I implemented functionality in Python that generates a series of "Movie" classes, which are then used in launching a browser window with the newly created HTML websire.
+This project is forked from Udacity's ud036_StarterCode. I implemented functionality in Python that generates a series of "Movie" classes, which are then used in launching a browser window with the newly created HTML website.
 
 
-### Prerequesites:
+### Prerequesites
 Ensure that Python 2.7+ and git are installed:
 ```
 python --version
@@ -44,7 +44,7 @@ This will create an HMTL file called "fresh_tomatoes.html" and launch a browser 
 
 ## Authors
 
-* **Lewis King** - *Initial work* - [Github](https://github.com/lewisisgood)
+* **Lewis King** - [Github](https://github.com/lewisisgood)
 
 ## Acknowledgments
 
