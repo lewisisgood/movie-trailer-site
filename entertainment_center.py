@@ -9,11 +9,11 @@ freaknik = media.Movie("Freaknik the Musical",
                        "Freaknik_-_The_Musical.jpg",
                        "https://www.youtube.com/watch?v=zXo_1ba34aE")
 
-getout = media.Movie("Get Out",
-                     "Meet the Parents but scary",
-                     "https://upload.wikimedia.org/wikipedia/en/e/eb/"
-                     "Teaser_poster_for_2017_film_Get_Out.png",
-                     "https://www.youtube.com/watch?v=sRfnevzM9kQ")
+getout = media.Movie("Hurricane Bianca",
+                     "A drag queen teaching school",
+                     "https://upload.wikimedia.org/wikipedia/en/2/2f/"
+                     "Hurricane_Bianca_Poster_2.png",
+                     "https://www.youtube.com/watch?v=q0a72wkqlqU")
 
 delicatessen = media.Movie("Delicatessen",
                            "A post-apocalyptic comedy; when meat becomes so "
