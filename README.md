@@ -16,7 +16,7 @@ git --version
 
 ### Installing
 
-From the Terminal, close this repo onto your computer with:
+From the Terminal, clone this repo onto your computer with:
 
 ```
 git clone https://github.com/lewisisgood/ud036_StarterCode
