@@ -19,13 +19,13 @@ git --version
 From the Terminal, clone this repo onto your computer with:
 
 ```
-git clone https://github.com/lewisisgood/ud036_StarterCode
+git clone https://github.com/lewisisgood/movie-trailer-site
 ```
 
 Move into the new directory:
 
 ```
-cd ud036_StarterCode/
+cd movie-trailer-site/
 ```
 
 Run the entertainment_center.py to generate the movie trailer website:
